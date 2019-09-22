@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am uncapchad on github.
+  * I am uncapchad (https://keybase.io/uncapchad) on keybase.
+  * I have a public key ASDz0QcA3SDaq12QEXm8rcrdF8Dud7eXKImSs0xATvLvaAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f3d10700dd20daab5d901179bcadcadd17c0ee77b797288992b34c404ef2ef680a",
+      "host": "keybase.io",
+      "kid": "0120f3d10700dd20daab5d901179bcadcadd17c0ee77b797288992b34c404ef2ef680a",
+      "uid": "940494bb67d10f08beb24e4382e11219",
+      "username": "uncapchad"
+    },
+    "merkle_root": {
+      "ctime": 1569155544,
+      "hash": "f1cb67af308b1536034b8ed2938a22a5a43e0ebb53e782e55442027d8d6d710d131dacb1eb64865c7f8b6c23d96bf8cbbad1cb82b7d1a2b2d5ad5e2b73c75418",
+      "hash_meta": "eaca7b1644a7b00c73e2bd413fda17067af06202a35ae2bebccb86824fe7f0b6",
+      "seqno": 7683343
+    },
+    "service": {
+      "entropy": "QVIWvYuQy65MhU8zyt0CNvIy",
+      "name": "github",
+      "username": "uncapchad"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569155552,
+  "expire_in": 504576000,
+  "prev": "64a799ad897b34924ac4e40980a51808a69484887786d668ba645a985cdaf717",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDz0QcA3SDaq12QEXm8rcrdF8Dud7eXKImSs0xATvLvaAo](https://keybase.io/uncapchad), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg89EHAN0g2qtdkBF5vK3K3RfA7ne3lyiJkrNMQE7y72gKp3BheWxvYWTESpcCDsQgZKeZrYl7NJJKxOQJgKUYCKaUhIh3htZoumRamFza9xfEIBAJROtjKk4vZYryqz7cTs3G9yGO0hk9Wsnj6GNBZYcwAgHCo3NpZ8RAoVLhEj34GW5t4MVGRxnmAOfhENEeNRbQcYKi4+0bx0MPmWFgZo3G6afpTHTpMA+058XZSGeHTlGDbjM+bcPcC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIByISmbiqniaG4oQoLbfo9MxXT80pUkMIJt8xytmeOd7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/uncapchad
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id uncapchad
+```
